@@ -4,8 +4,8 @@
 
 ## Introduction
 
-**Author**: Hipkiss91
-**Discord Server**: [MyLivePoker](https://discord.gg/qejnZwZ)
+**Author**: Hipkiss91  
+**Discord Server**: [MyLivePoker](https://discord.gg/qejnZwZ)  
 
 This project is a basic implementation of a Monte Carlo simulation to generate a percentage (%) likehood for winning a hand of Texes Holdem between two players. Defaults to `10,000` hands.
 
