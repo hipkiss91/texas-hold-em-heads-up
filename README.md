@@ -1,11 +1,8 @@
 # Texas Hold'em Heads-Up Simulator
 
-## Version v1.0.0 (2024/10/02)
-
-## Introduction
-
 **Author**: Hipkiss91  
 **Discord Server**: [MyLivePoker](https://discord.gg/qejnZwZ)  
+**Version** v1.0.0 (2024/10/02)
 
 This project is a basic implementation of a Monte Carlo simulation to generate a percentage (%) likehood for winning a hand of Texes Holdem between two players. Defaults to `10,000` hands.
 
